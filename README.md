@@ -1,11 +1,8 @@
-# olist_excel_revenue_model
-Excel revenue model on Olist e-commerce data: Power Query, VBA data checks, forecast testing and scenario projections.
-
-Power Query and VBA were new to me, so I used Claude (an AI assistant) to teach me each step as I built the model. It also wrote the VBA macro, which I've worked through so I can explain how it works.
-
 # Olist Revenue Model (Excel)
 
 I built this to learn Power Query and VBA, which come up in most finance analyst and FP&A job descriptions. It was my first time using either. It uses the public [Olist Brazilian e-commerce dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), the same data as my [SQL analysis](https://github.com/simarleenkaur17/olist_ecommerce_sql_analysis) and [Tableau dashboard](https://public.tableau.com/app/profile/simarleen.kaur8471/viz/OlistE-CommercePerformanceDashboard).
+
+Power Query and VBA were new to me, so I used Claude (an AI assistant) to teach me each step as I built the model. It also wrote the VBA macro, which I've worked through so I can explain how it works.
 
 <img width="1199" height="497" alt="Dashboard" src="https://github.com/user-attachments/assets/39adf818-2bc6-4788-9126-85d1506d6189" />
 
